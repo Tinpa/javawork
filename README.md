@@ -1,4 +1,4 @@
-# javawork
+## javawork仓库
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)<br>
 本仓库80%代码遵循Shitcode（垃圾代码）书写准则<br>
