@@ -1,6 +1,6 @@
 # javawork
 
-本仓库80%代码遵循垃圾代码书写准则<br>
+本仓库80%代码遵循Shitcode（垃圾代码）书写准则<br>
 
 使用 Do What The Fuck You Want To Public License（他妈的想干嘛就干嘛公共许可证）发布<br>
 
