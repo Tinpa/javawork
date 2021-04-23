@@ -6,11 +6,13 @@
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)<br>
 
-[![](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)<br>
+[![Do-What-The-Fuck-You-Want-To-Public-License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)<br>
 
 
 学习java时写练习代码的仓库<br>
 包含 https://chortle.ccsu.edu/CS151/cs151java.html 内的练习所写的代码<br>
+
+[java 环境：jdk-9.0.4.jdk](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html) <br>
 
 ****
 
