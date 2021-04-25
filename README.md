@@ -5,10 +5,10 @@
 
 [![Do-What-The-Fuck-You-Want-To-Public-License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)<br>
 使用Do What The Fuck You Want To Public License（他妈的想干嘛就干嘛公共许可证）发布<br>
-
+注：少许文件因java文件丢失从而由class文件经[JD-GUI](https://github.com/java-decompiler/jd-gui)反编译为java文件<br>
 
 学习java时写练习代码的仓库<br>
-包含 https://chortle.ccsu.edu/CS151/cs151java.html 内的练习所写的代码<br>
+包含本人做 [Bradley Kjell](https://chortle.ccsu.edu/CS151/cs151java.html)  Java教学练习所写的练习代码<br>
 所使用的java环境：[jdk-9.0.4.jdk](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html) <br>
 
 ****
