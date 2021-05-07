@@ -3,7 +3,7 @@
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=6f3d1e)](https://github.com/trekhleb/state-of-the-art-shitcode)<br>
 本仓库80%代码遵循Shitcode（垃圾代码）书写准则<br>
 
-[![Do-What-The-Fuck-You-Want-To-Public-License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)<br>
+[![Do-What-The-Fuck-You-Want-To-Public-License](https://img.shields.io/badge/License-WTFPL-black.svg)](http://www.wtfpl.net/)
 使用Do What The Fuck You Want To Public License（他妈的想干嘛就干嘛公共许可证）发布<br>
 注：少许文件因java文件丢失从而由class文件经[JD-GUI](https://github.com/java-decompiler/jd-gui)反编译为java文件<br>
 
