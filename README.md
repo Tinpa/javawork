@@ -9,6 +9,9 @@
 
 
 学习java时写练习代码的仓库，以后乱七八糟的java文件都会丢到这里<br>
+代码大概没有任何的学习参考作用<br>
+如果是要抄代码（作业）可能可以满足一时之需<br>
+建议还是自己好好学习Java<br>
 包含本人做 [Bradley Kjell](https://chortle.ccsu.edu/CS151/cs151java.html)  Java教学练习所写的练习代码<br>
 [![Java](https://img.shields.io/badge/language-Java-b87100.svg)](https://www.oracle.com/java/)<br>
 [![HTML](https://img.shields.io/badge/language-HTML-f33900.svg)](https://www.w3.org/html/)<br>
