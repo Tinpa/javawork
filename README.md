@@ -7,7 +7,7 @@
 使用Do What The Fuck You Want To Public License（他妈的想干嘛就干嘛公共许可证）发布<br>
 注：少许文件因java文件丢失从而由class文件经[JD-GUI](https://github.com/java-decompiler/jd-gui)反编译为java文件<br>
 
-
+**年代久远 不做评价** <br>
 学习java时写练习代码的仓库，以后乱七八糟的java文件都会丢到这里<br>
 代码没有任何的学习参考作用<br>
 如果是要抄代码（作业）可能可以满足一时之需<br>
