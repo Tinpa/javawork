@@ -80,7 +80,7 @@
 /*    */ }
 
 
-/* Location:              /Users/student/Desktop/javawork/!/Ball.class
+/* Location:  ****手动加密****
  * Java compiler version: 9 (53.0)
  * JD-Core Version:       1.1.3
  */
