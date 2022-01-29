@@ -12,7 +12,7 @@ class DiscountPrices
    int OriPrice;
    int FinPrice;
       
-   System.out.println( "Enter amount of purchases(in cents): ");
+   System.out.println( "Enter amount of purchases (in cents): ");
     OriPrice = scan.nextInt();
     FinPrice = (int) (OriPrice*0.9);
       if(OriPrice<=1000)
