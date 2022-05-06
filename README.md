@@ -1,5 +1,6 @@
 ## javawork仓库
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)<br>
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=6f3d1e)](https://github.com/trekhleb/state-of-the-art-shitcode)<br>
 本仓库80%代码遵循Shitcode（垃圾代码）书写准则<br>
 
